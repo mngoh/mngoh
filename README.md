@@ -10,11 +10,20 @@ I build data and AI products. Three are live:
 
 The code for these is private. Happy to walk through any of it.
 
-## Public work
+## Assault victims by race and sex in US cities
+
+One method, applied city by city and then nationally, with a follow-up on what the numbers measure. Read in this order:
+
+1. [59 large US cities, 2022 to 2025](https://mngoh.github.io/US-Large-Cities-Assault-Victim-Rates-by-Race-and-Sex-2022-2025/): Black women's police-recorded assault rate against Hispanic, White and Asian women's, in every city whose police report complete data ([code](https://github.com/mngoh/US-Large-Cities-Assault-Victim-Rates-by-Race-and-Sex-2022-2025))
+2. [What that number measures](https://github.com/mngoh/Police-Records-vs-Survey-Assault-Victims-by-Race-and-Sex-2015-2025): the national victimization survey, hospital records, and 911 calls against recorded victims in four cities
+3. [Nine cities side by side, 2020 to 2025](https://mngoh.github.io/Nine-Cities-Assault-Victim-Rates-by-Race-and-Sex-2020-2025/) ([code](https://github.com/mngoh/Nine-Cities-Assault-Victim-Rates-by-Race-and-Sex-2020-2025))
+4. Single cities, each with its own checks: [Los Angeles](https://mngoh.github.io/LA-Crime/) ([code](https://github.com/mngoh/LA-Crime)), [Washington, DC](https://mngoh.github.io/DC-Assault-Victims-by-Race-and-Sex-2022-2025/) ([code](https://github.com/mngoh/DC-Assault-Victims-by-Race-and-Sex-2022-2025)), [Baltimore](https://mngoh.github.io/Baltimore-Assault-Victims/) ([code](https://github.com/mngoh/Baltimore-Assault-Victims)), [Dallas](https://mngoh.github.io/Dallas-TX-Assault-Victim-Rates-by-Race-and-Sex-2022-2025/) ([code](https://github.com/mngoh/Dallas-TX-Assault-Victim-Rates-by-Race-and-Sex-2022-2025))
+5. [disparity-kit](https://github.com/mngoh/disparity-kit): the Claude Code skills every analysis above was built with, from a raw incident file to a published, caveated page
+
+## Other public work
 
 - [Soccer Prediction Model](https://mngoh.github.io/SPM-Model/): predicting non-penalty goals, 8 models compared ([code](https://github.com/mngoh/SPM-Model))
 - [Champions League 2024](https://mngoh.github.io/Champions-League-2024/): team goals model scored on an unseen season ([code](https://github.com/mngoh/Champions-League-2024))
-- [LA Crime Analysis](https://mngoh.github.io/LA-Crime/): assault victimization by demographics and police division ([code](https://github.com/mngoh/LA-Crime))
 - [DC Felony Arrests 2016](https://mngoh.github.io/DC-Crime-Data-2016/): interactive arrests dashboard ([code](https://github.com/mngoh/DC-Crime-Data-2016))
 
 [martinngoh.com](https://martinngoh.com) · [LinkedIn](https://www.linkedin.com/in/mngoh)
