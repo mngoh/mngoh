@@ -5,7 +5,7 @@ Data Scientist & AI Engineer, Washington, DC
 I build data and AI products. Three are live:
 
 - **[Justice Lens](https://justicelensai.com)**: an independent publication testing whether DC policing is applied equitably. Nine statistical analyses on 1.4M+ public police records. FastAPI, PostGIS, ~500 automated tests.
-- **[Lease Screener](https://leasescreener.com)**: reads your lease, flags risky clauses against DC and Virginia tenant law, and answers questions about it. Claude API, BM25 retrieval with reranking. Shipped; kept live as a demo.
+- **[Lease Screener](https://leasescreener.com)**: reads your lease, flags clauses that may break DC or Virginia tenant law, and answers questions about it. Two Claude Opus generator passes and a Sonnet judge; F1 72% vs. 31% for Claude Opus alone on a 4-lease test set, with 9 false alarms vs. 51. The pipeline is private; [the eval is open](https://github.com/mngoh/lease-screener-eval).
 - **[Athro News](https://news-app-production-228d.up.railway.app/)**: a news digest that condenses 20 feeds into bullet points with Claude.
 
 The code for these is private. Happy to walk through any of it.
@@ -23,7 +23,6 @@ One method, applied city by city and then nationally, with a follow-up on what t
 ## Other public work
 
 - [Soccer Prediction Model](https://mngoh.github.io/SPM-Model/): predicting non-penalty goals, 8 models compared ([code](https://github.com/mngoh/SPM-Model))
-- [Champions League 2024](https://mngoh.github.io/Champions-League-2024/): team goals model scored on an unseen season ([code](https://github.com/mngoh/Champions-League-2024))
 - [DC Felony Arrests 2016](https://mngoh.github.io/DC-Crime-Data-2016/): interactive arrests dashboard ([code](https://github.com/mngoh/DC-Crime-Data-2016))
 
 [martinngoh.com](https://martinngoh.com) · [LinkedIn](https://www.linkedin.com/in/mngoh)
