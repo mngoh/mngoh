@@ -4,7 +4,7 @@ Data Scientist & AI Engineer, Washington, DC
 
 I build data and AI products. Three are live:
 
-- **[Justice Lens](https://justicelensai.com)**: an independent publication testing whether DC policing is applied equitably. Nine statistical analyses on 1.4M+ public police records. FastAPI, PostGIS, ~500 automated tests.
+- **[Justice Lens](https://justicelensai.com)**: an independent publication testing whether DC policing is applied equitably. Ten statistical analyses on 1.4M+ public police records. FastAPI, PostGIS, 420+ automated tests.
 - **[Lease Screener](https://leasescreener.com)**: reads your lease, flags clauses that may break DC or Virginia tenant law, and answers questions about it. Two Claude Opus generator passes and a Sonnet judge; F1 72% vs. 31% for Claude Opus alone on a 4-lease test set, with 9 false alarms vs. 51. The pipeline is private; [the eval is open](https://github.com/mngoh/lease-screener-eval).
 - **[Athro News](https://news-app-production-228d.up.railway.app/)**: a news digest that condenses 20 feeds into bullet points with Claude.
 
